@@ -1,6 +1,6 @@
-- 👋 Hi, I’m RafidAhmmed
-- 👀 I’m interested in developing, gaming, reading and camping
-- 🌱 I’m currently learning react and mern
+ 👋 Hi, I’m RafidAhmmed
+ 👀 I’m interested in developing, gaming, reading and camping
+ 🌱 I’m currently learning react and mern
 
 
 <!---
